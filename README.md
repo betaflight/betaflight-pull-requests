@@ -1,4 +1,4 @@
-Pull Request builds of the Betaflight firmware
+# Pull Request builds of the Betaflight firmware
 
 Download firmware images built from currently open pull requests in order to test them.
 
